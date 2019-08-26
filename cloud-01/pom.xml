@@ -7,6 +7,9 @@
     <groupId>con.lqx</groupId>
     <artifactId>cloud-01</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../cloud-02-api</module>
+    </modules>
     <packaging>pom</packaging>
 
     <!-- spring boot 采用 2.0.7 版本 -->
