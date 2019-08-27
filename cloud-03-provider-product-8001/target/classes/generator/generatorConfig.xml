@@ -32,6 +32,7 @@
                         connectionURL="jdbc:mysql://127.0.0.1:3306/seller?serverTimezone=GMT%2B8"
                         userId="root"
                         password="123456">
+            <!--生成...ByPrimaryKey的方法-->
             <property name="useInformationSchema" value="true"/>
         </jdbcConnection>
         <!--
