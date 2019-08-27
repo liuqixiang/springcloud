@@ -16,4 +16,10 @@
       <module name="cloud-03-provider-product-8001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-02-api" options="-parameters" />
+      <module name="cloud-03-provider-product-8001" options="-parameters" />
+    </option>
+  </component>
 </project>
