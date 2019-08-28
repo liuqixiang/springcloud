@@ -10,6 +10,7 @@
     <modules>
         <module>../cloud-02-api</module>
         <module>../cloud-03-provider-product-8001</module>
+        <module>../cloud-04-consumer-product-80</module>
     </modules>
     <packaging>pom</packaging>
 
