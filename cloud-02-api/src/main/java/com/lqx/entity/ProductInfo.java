@@ -27,6 +27,14 @@ public class ProductInfo implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
+    public ProductInfo() {
+    }
+
+    public ProductInfo(String productId, String productName) {
+        this.productId = productId;
+        this.productName = productName;
+    }
+
     public String getProductId() {
         return productId;
     }

@@ -5,7 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-01/cloud-01.iml" filepath="$PROJECT_DIR$/cloud-01/cloud-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-02-api/cloud-02-api.iml" filepath="$PROJECT_DIR$/cloud-02-api/cloud-02-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-03-provider-product-8001/cloud-03-provider-product-8001.iml" filepath="$PROJECT_DIR$/cloud-03-provider-product-8001/cloud-03-provider-product-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-03-provider-product-8002/cloud-03-provider-product-8002.iml" filepath="$PROJECT_DIR$/cloud-03-provider-product-8002/cloud-03-provider-product-8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-04-consumer-product-80/cloud-04-consumer-product-80.iml" filepath="$PROJECT_DIR$/cloud-04-consumer-product-80/cloud-04-consumer-product-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-04-consumer-product-80-feign/cloud-04-consumer-product-80-feign.iml" filepath="$PROJECT_DIR$/cloud-04-consumer-product-80-feign/cloud-04-consumer-product-80-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-05-eureka-6001/cloud-05-eureka-6001.iml" filepath="$PROJECT_DIR$/cloud-05-eureka-6001/cloud-05-eureka-6001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-06-eureka-6002/cloud-06-eureka-6002.iml" filepath="$PROJECT_DIR$/cloud-06-eureka-6002/cloud-06-eureka-6002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-07-zuul-7001/cloud-07-zuul-7001.iml" filepath="$PROJECT_DIR$/cloud-07-zuul-7001/cloud-07-zuul-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
     </modules>
   </component>

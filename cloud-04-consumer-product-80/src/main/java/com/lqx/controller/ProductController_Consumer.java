@@ -15,7 +15,8 @@ import java.util.List;
  */
 @RestController
 public class ProductController_Consumer {
-    private static final String REST_URL_PREFIX = "http://localhost:8001";
+    //private static final String REST_URL_PREFIX = "http://localhost:8001";
+    private static final String REST_URL_PREFIX = "http://LQX-PRODUCT";
 
     @Autowired
     private RestTemplate restTemplate;

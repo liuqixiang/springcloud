@@ -11,6 +11,11 @@
         <module>../cloud-02-api</module>
         <module>../cloud-03-provider-product-8001</module>
         <module>../cloud-04-consumer-product-80</module>
+        <module>../cloud-05-eureka-6001</module>
+        <module>../cloud-06-eureka-6002</module>
+        <module>../cloud-03-provider-product-8002</module>
+        <module>../cloud-04-consumer-product-80-feign</module>
+        <module>../cloud-07-zuul-7001</module>
     </modules>
     <packaging>pom</packaging>
 
