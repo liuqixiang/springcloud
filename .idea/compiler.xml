@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-04-consumer-product-80" />
         <module name="cloud-07-zuul-7001" />
         <module name="cloud-06-eureka-6002" />
         <module name="cloud-03-provider-product-8002" />
         <module name="cloud-03-provider-product-8001" />
-        <module name="cloud-02-api" />
         <module name="cloud-08-auth-service-8003" />
-        <module name="cloud-04-consumer-product-80" />
+        <module name="cloud-02-api" />
+        <module name="cloud-09-order-pay-service-8004" />
         <module name="cloud-04-consumer-product-80-feign" />
         <module name="cloud-05-eureka-6001" />
       </profile>
@@ -28,6 +29,7 @@
       <module name="cloud-06-eureka-6002" target="1.8" />
       <module name="cloud-07-zuul-7001" target="1.8" />
       <module name="cloud-08-auth-service-8003" target="1.8" />
+      <module name="cloud-09-order-pay-service-8004" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -41,6 +43,7 @@
       <module name="cloud-06-eureka-6002" options="-parameters" />
       <module name="cloud-07-zuul-7001" options="-parameters" />
       <module name="cloud-08-auth-service-8003" options="-parameters" />
+      <module name="cloud-09-order-pay-service-8004" options="-parameters" />
     </option>
   </component>
 </project>

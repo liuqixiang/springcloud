@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-06-eureka-6002/cloud-06-eureka-6002.iml" filepath="$PROJECT_DIR$/cloud-06-eureka-6002/cloud-06-eureka-6002.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-07-zuul-7001/cloud-07-zuul-7001.iml" filepath="$PROJECT_DIR$/cloud-07-zuul-7001/cloud-07-zuul-7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-08-auth-service-8003/cloud-08-auth-service-8003.iml" filepath="$PROJECT_DIR$/cloud-08-auth-service-8003/cloud-08-auth-service-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-09-order-pay-service-8004/cloud-09-order-pay-service-8004.iml" filepath="$PROJECT_DIR$/cloud-09-order-pay-service-8004/cloud-09-order-pay-service-8004.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
     </modules>
   </component>

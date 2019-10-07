@@ -17,6 +17,11 @@ public class UserBasicInfo {
     //jwt令牌
     private String jwt_token;
 
+    public UserBasicInfo(String id, String username) {
+        this.id = id;
+        this.username = username;
+    }
+
     public String getId() {
         return id;
     }

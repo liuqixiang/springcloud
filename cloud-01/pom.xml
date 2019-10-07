@@ -17,6 +17,7 @@
         <module>../cloud-04-consumer-product-80-feign</module>
         <module>../cloud-07-zuul-7001</module>
         <module>../cloud-08-auth-service-8003</module>
+        <module>../cloud-09-order-pay-service-8004</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -135,6 +136,16 @@
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-web</artifactId>
             </dependency>
+            <dependency>
+
+                <groupId>io.jsonwebtoken</groupId>
+
+                <artifactId>jjwt</artifactId>
+
+                <version>0.9.0</version>
+
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
